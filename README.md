@@ -1,5 +1,5 @@
 # magento-html-sitemap
-HTML sitemap extension free help customers explore your entire site. MageHQ recommends enabling HTML sitemaps, this extension will be able to collect all your sitelinks in one page, helping to enhance the customer experience and to reach a higher ranking on SERPs.
+Magento 2 HTML sitemap is a page that shows all the links of your website in a tree-like structure, making it simple for users and search engines to explore your site
 
 Please go to https://magehq.com/magento-2-html-sitemap.html download free extension
 
